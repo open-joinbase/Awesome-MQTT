@@ -8,10 +8,15 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 ## Contents
 
-- [Community Resources](#community-resources)
-    - [Blogs](#blogs)
-    - [Talks](#talks)
+- [Awesome MQTT](#awesome-mqtt)
+  - [Contents](#contents)
+    - [Community Resources](#community-resources)
+      - [Blogs](#blogs)
+      - [Talks](#talks)
     - [Broker](#broker)
+    - [Cloud](#cloud)
+    - [Platforms](#platforms)
+    - [Tools](#tools)
 
 ### Community Resources
 
@@ -57,3 +62,51 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 |[Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt)|active|Vert.x component to handle connections, communication and messages exchange with remote MQTT clients.|
 |[Waterstream](https://waterstream.io/)|active|MQTT broker leveraging Apache Kafka as its own storage and distribution engine.|
 |[NanoMQ](https://github.com/nanomq/nanomq)|active|A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.|
+
+### Cloud
+
+|Name|Status|Introduction|
+|------|------|------|
+|[Adafruit IO](https://io.adafruit.com)|active|Adafruit IO is the easiest way to connect your project to the internet. You can easily connect your project to Adafruit IO with your device-of-choice by using your programming language of choice (we have lots of libraries) and control or monitor over the internet. Data stored with Adafruit IO is yours to manage and control.|
+|[Alibaba Cloud IoT Platform](https://www.alibabacloud.com/product/iot)|active|Provides secure and reliable communication between devices and the IoT Platform which allows you to manage a large number of devices on a single IoT Platform.|
+|[AWS IoT Core](https://aws.amazon.com/iot-core/?nc1=h_ls)|active|AWS IoT Core is a managed cloud service that lets connected devices easily and securely interact with cloud applications and other devices. AWS IoT Core can support billions of devices and trillions of messages, and can process and route those messages to AWS endpoints and to other devices reliably and securely. With AWS IoT Core, your applications can keep track of and communicate with all your devices, all the time, even when they aren’t connected.|
+|[Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/)|active|Enable highly secure and reliable communication between your IoT application and the devices it manages. Azure IoT Hub provides a cloud-hosted solution backend to connect virtually any device. Extend your solution from the cloud to the edge with per-device authentication, built-in device management, and scaled provisioning.|
+|[CloudMQTT](https://www.cloudmqtt.com/)|active|Hosted message broker for the Internet of Things. Perfectly configured and optimized message queues for IoT, ready in seconds.|
+|[EMQ X MQTT Cloud](https://cloud.emqx.io/)|active|A secure, reliable MQTT cloud service with best pratices from EMQ team.|
+|[flespi](https://flespi.com/mqtt-broker)|active|Free and secure cloud MQTT broker with private namespaces, MQTT 3.1.1 and MQTT 5.0 support and gorgeous limits.|
+|[Google Cloud IoT](https://cloud.google.com/solutions/iot/)|active|Google Cloud IoT is a complete set of tools to connect, process, store, and analyze data both at the edge and in the cloud. The platform consists of scalable, fully-managed cloud services; an integrated software stack for edge/on-premises computing with machine learning capabilities for all your IoT needs.|
+|[HiveMQ Cloud](https://www.hivemq.com/cloud/)|active|HiveMQ Cloud is a fully managed MQTT platform that connects IoT devices to any IoT cloud platform. A cloud native IoT messaging platform that simplifies reliable and scalable IoT device connectivity.|
+|[IBM WATSON](https://www.ibm.com/watson)|active|With Watson, you can bring AI tools and apps to your data wherever it resides – whether it's on IBM Cloud, AWS, Azure, Google, or your own private cloud platform.|
+
+### Platforms
+
+|Name|Status|Introduction|
+|------|------|------|
+|[mainflux](https://www.mainflux.com/)|active|device management, data aggregation, data management, data analytics,connectivity and message routing and event management. Supported by Linux Software Foundation.Core analytics|
+|[thingsboard](https://thingsboard.io/)|active|Device management, data collection, processing, event management, and visualization for your IoT projects.|
+
+
+### Tools
+
+|Name|Status|Introduction|
+|------|------|------|
+|[hivemq-mqtt-web-client](https://github.com/hivemq/hivemq-mqtt-web-client)|inactive|Browser-based MQTT client that utilizes MQTT over websockets. [Direct Link](http://www.hivemq.com/demos/websocket-client/)|
+|[MQTT Board](https://github.com/flespi-software/MQTT-Board)|active|Open-source diagnostic-oriented MQTT client tool.|
+|[MQTT CLI](https://github.com/hivemq/mqtt-cli)|active|A command line interface for connecting various MQTT clients supporting MQTT 5.0 and 3.1.1.|
+|[mqtt-client](https://github.com/sdeancos/mqtt-client)|active|A Simple MQTT Client command line (Python) (use paho lib)|
+|[mqtt-fuzz](https://github.com/F-Secure/mqtt_fuzz)|active|A simple fuzzer for the MQTT protocol.|
+|[mqtt-malaria](https://github.com/etactica/mqtt-malaria)|inactive|scalability and load testing utilities for MQTT environments.|
+|[mqtt-mirror](https://github.com/4nte/mqtt-mirror)|inactive|Mirror MQTT traffic from one broker to another. Available as a CLI tool, helm chart or docker image.|
+|[MQTT-PWN](https://github.com/akamai-threat-research/mqtt-pwn)|inactive|MQTT-PWN intends to be a one-stop-shop for IoT Broker penetration-testing and security assessment operations.|
+|[mqtt_recorder](https://github.com/rpdswtk/mqtt_recorder)|inactive|Simple cli tool for recording and replaying MQTT messages.|
+|[mqtt_tree](https://github.com/poggenpower/mqtt_tree)|active|Displays all Topics in an expandable tree, helps to get an overview if you have a lot of clients publishing. (python, tkinter)|
+|[MQTT.fx](https://mqttfx.jensd.de/)|active|MQTT.fx is a MQTT Client written in Java based on Eclipse Paho. Supports scripting.|
+|[mqttcli](https://github.com/shirou/mqttcli)|active|MQTT Client for shell scripting.|
+|[MQTTInspector](https://github.com/ckrey/MQTTInspector)|inactive|A general MQTT testing app for iOS (iPhone and iPad).|
+|[MQTTLens](https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm)|active|A Google Chrome application, which connects to a MQTT broker and is able to subscribe and publish to MQTT topics.|
+|[MQTT Explorer](https://mqtt-explorer.com/)|active|Tool to visualize your MQTT topics in a topic hierarchy, a MQTT swiss-army knife.|
+|[MQTT TUI](https://github.com/EdJoPaTo/mqttui)|active|Simple lightweight terminal based MQTT monitor and publisher.|
+|[SimpleMQTT](https://simplemqtt.theoi.de/)|active|A Slack app to send messages from Slack to MQTT brokers with slash commands.|
+|[MQTTX](https://github.com/emqx/MQTTX)|active|MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows.|
+|[MQTT-Tiles](https://github.com/flespi-software/MQTT-Tiles)|active|MQTT-based IoT dashboard visualization tool. Allows easy dashboards sharing. Works with any MQTT broker supporting the WSS protocol.|
+
