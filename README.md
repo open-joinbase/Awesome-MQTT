@@ -81,6 +81,7 @@ Contents
 
 |Name|Status|Introduction|
 |------|------|------|
+|[JoinBase](https://github.com/open-joinbase)|active|JoinBase is the single binary AIoT-first data-service platform. For Free. 25 million sustained 40B messages per second. Crafted engine is pushing the power of modern hardware to the limit. Interfaces with HTTP, WebSocket, MQTT, PostgreSQL and their TLS variants are available in the highest performance forms.|
 |[mainflux](https://www.mainflux.com/)|active|device management, data aggregation, data management, data analytics,connectivity and message routing and event management. Supported by Linux Software Foundation.Core analytics|
 |[thingsboard](https://thingsboard.io/)|active|Device management, data collection, processing, event management, and visualization for your IoT projects.|
 
