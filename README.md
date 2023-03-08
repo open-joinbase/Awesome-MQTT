@@ -6,7 +6,8 @@
 
 MQTT is a lightweight client-server publish/subscribe messaging protocol, optimized for high-latency or unreliable networks. This protocol is a good choice for Internet of Things applications, Telemetry, Sensor Networks, Smart Metering, Home Automation, Messaging and Notification Services.
 
-## Contents
+Contents
+---
 
 - [Community Resources](#community-resources)
      - [Blogs](#blogs)
@@ -16,7 +17,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 - [Platforms](#platforms)
 - [Tools](#tools)
 
-### Community Resources
+## Community Resources
 
 * [mqtt.org](https://mqtt.org/).
 * [MQTT community wiki](https://github.com/mqtt/mqtt.org/wiki).
@@ -24,19 +25,19 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [IRC channel #mqtt on the freenode network](irc://irc.freenode.net/mqtt).
 * [A list of public brokers](http://moxd.io/2015/10/17/public-mqtt-brokers/).
 
-#### Blogs
+## Blogs
 
 * [Ben Hardill](https://www.hardill.me.uk/wordpress/tag/mqtt/)
 * [Dominik Obermaier](http://forkbomb-blog.de/category/mqtt)
 * [Jan-Piet Mens](https://jpmens.net/)
 * [Nick O'Leary](https://knolleary.net/)
 
-#### Talks
+## Talks
 
 * [An Introduction to MQTT: Why HTTP isn't the King of the Internet of Things](https://www.youtube.com/watch?v=LKz1jYngpcU) - Shinji Kim, Robert Bird - Akamai, Samsung Developer Conference 2017.
 * [Einführung in MQTT](https://www.youtube.com/watch?v=INYG4-xsa9c) - Dominik Obermaier & Jens Deters, [Building IoT](https://www.buildingiot.de/index.php) conference 2016 (German).
 
-### Broker
+## Broker
 
 
 |Name|Status|Introduction|
@@ -61,7 +62,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 |[Waterstream](https://waterstream.io/)|active|MQTT broker leveraging Apache Kafka as its own storage and distribution engine.|
 |[NanoMQ](https://github.com/nanomq/nanomq)|active|A light-weight and Blazing-fast MQTT Broker for IoT Edge platform.|
 
-### Cloud
+## Cloud
 
 |Name|Status|Introduction|
 |------|------|------|
@@ -76,7 +77,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 |[HiveMQ Cloud](https://www.hivemq.com/cloud/)|active|HiveMQ Cloud is a fully managed MQTT platform that connects IoT devices to any IoT cloud platform. A cloud native IoT messaging platform that simplifies reliable and scalable IoT device connectivity.|
 |[IBM WATSON](https://www.ibm.com/watson)|active|With Watson, you can bring AI tools and apps to your data wherever it resides – whether it's on IBM Cloud, AWS, Azure, Google, or your own private cloud platform.|
 
-### Platforms
+## Platforms
 
 |Name|Status|Introduction|
 |------|------|------|
@@ -84,7 +85,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 |[thingsboard](https://thingsboard.io/)|active|Device management, data collection, processing, event management, and visualization for your IoT projects.|
 
 
-### Tools
+## Tools
 
 |Name|Status|Introduction|
 |------|------|------|
