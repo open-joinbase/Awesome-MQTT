@@ -111,3 +111,33 @@ Contents
 |[MQTTX](https://github.com/emqx/MQTTX)|active|MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows.|
 |[MQTT-Tiles](https://github.com/flespi-software/MQTT-Tiles)|active|MQTT-based IoT dashboard visualization tool. Allows easy dashboards sharing. Works with any MQTT broker supporting the WSS protocol.|
 
+### Clients
+
+|Name|Status|Introduction|
+|------|------|------|
+|[aiomqtt](https://github.com/mossblaser/aiomqtt)|active|Async Python MQTT client based on paho-mqtt.|
+|[CocoaMQTT](https://github.com/emqx/CocoaMQTT)|active|MQTT for iOS and OS X written with Swift.|
+|[emqttc](https://github.com/emqx/emqtt)|active|Asynchronous Erlang MQTT Client.|
+|[gmqtt](https://github.com/wialon/gmqtt)|active|Python MQTT v5.0 client (asyncio-based).|
+|[hbmqtt](https://github.com/beerfactory/hbmqtt)|active|Python MQTT client using asyncio.|
+|[hivemq-mqtt-client](https://github.com/hivemq/hivemq-mqtt-client)|active|High-performance Java MQTT client library with different API flavours for MQTT 5.0 and 3.1.1.|
+|[Hulaaki](https://github.com/suvash/hulaaki)|inactive|An Elixir library for clients communicating with MQTT brokers.|
+|[luamqtt](https://github.com/xHasKx/luamqtt/)|active|Pure-lua MQTT v3.1.1 and v5.0 client.|
+|[Machine Head](https://github.com/clojurewerkz/machine_head)|active|A Clojure MQTT Client.|
+|[MiniMQTT](https://github.com/adafruit/Adafruit_CircuitPython_MiniMQTT)|active|MQTT Client Library for CircuitPython|
+|[MIMIC MQTT Simulator](https://www.gambitcomm.com/site/mqttsimulator.php)|active|Simulate up to 100,000 MQTT clients per server for development/testing/deployment of IoT applications.|
+|[Moscapsule](https://github.com/flightonary/Moscapsule)|inactive|MQTT Client for iOS written in Swift.|
+|[mqtt_cpp](https://github.com/redboltz/mqtt_cpp)|active|MQTT client for C++14 based on Boost.Asio.|
+|[mqtt_lua](http://geekscape.github.io/mqtt_lua/)|active|MQTT Client library for the Lua language.|
+|[MQTT-C](https://github.com/LiamBindle/MQTT-C)|active|A portable MQTT C client for embedded systems and PCs alike.|
+|[mqtt-rs](https://github.com/zonyitoo/mqtt-rs)|active|MQTT protocol library for Rust.|
+|[mqtt-stats](https://github.com/gambitcomminc/mqtt-stats)|inactive|Subscriber client to monitor MQTT Topic Statistics|
+|[mqtt-wrapper](https://www.webcomponents.org/element/hobbyquaker/mqtt-wrapper/elements/mqtt-wrapper)|active|Polymer Element that wraps other Elements and links them to MQTT topics.|
+|[MQTT.js](https://github.com/mqttjs)|active|MQTT client for Node.js.|
+|[mqtt_monitor](https://github.com/filipsPL/mqtt-monitor)|active|simple and lightweight console moniotor for mqtt topics, with eye-candies, in python 3.|
+|[Paho](http://www.eclipse.org/paho/)|active|Open source client implementations (C/C++, Java, Python, Javascript, Go, C#).|
+|[pubsubclient](https://github.com/knolleary/pubsubclient)|inactive|A client library for the Arduino Ethernet Shield that provides support for MQTT.|
+|[ruby-mqtt](https://github.com/njh/ruby-mqtt)|active|Pure Ruby gem that implements the MQTT protocol.|
+|[Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt)|active|Vert.x component that provides methods for connecting/disconnecting to a broker, publishing messages and subscribing to topics.|
+|[wolfMQTT](https://www.wolfssl.com/products/wolfmqtt/)|active|A client implementation of the MQTT written in C for embedded use. It supports SSL/TLS via the wolfSSL library.|
+|[MQTTnet](https://github.com/chkr1011/MQTTnet)|active|MQTT client and broker implementations in .NET.|
