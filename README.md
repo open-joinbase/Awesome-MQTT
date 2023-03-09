@@ -16,6 +16,7 @@ Contents
 - [Cloud](#cloud)
 - [Platforms](#platforms)
 - [Tools](#tools)
+- [Clients](#clients)
 
 ## Community Resources
 
