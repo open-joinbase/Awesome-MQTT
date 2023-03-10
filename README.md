@@ -17,6 +17,7 @@ Contents
 - [Platforms](#platforms)
 - [Tools](#tools)
 - [Clients](#clients)
+- [Scripting](#scripting)
 
 ## Community Resources
 
@@ -141,3 +142,10 @@ Contents
 |[Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt)|active|Vert.x component that provides methods for connecting/disconnecting to a broker, publishing messages and subscribing to topics.|
 |[wolfMQTT](https://www.wolfssl.com/products/wolfmqtt/)|active|A client implementation of the MQTT written in C for embedded use. It supports SSL/TLS via the wolfSSL library.|
 |[MQTTnet](https://github.com/chkr1011/MQTTnet)|active|MQTT client and broker implementations in .NET.|
+
+### Scripting
+
+|Name|Status|Introduction|
+|------|------|------|
+|[logic4mqtt](https://github.com/owagner/logic4mqtt)|inactive|Node.js based script runner.|
+|[Node-RED](https://nodered.org/)|active|A visual tool for wiring the Internet of Things.|
