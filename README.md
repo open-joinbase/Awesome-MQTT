@@ -26,6 +26,7 @@ Contents
 * [Google Groups: MQTT](https://groups.google.com/forum/#!forum/mqtt).
 * [IRC channel #mqtt on the freenode network](irc://irc.freenode.net/mqtt).
 * [A list of public brokers](http://moxd.io/2015/10/17/public-mqtt-brokers/).
+* [Reddit MQTT Community](https://www.reddit.com/r/MQTT).
 
 ## Blogs
 
@@ -111,6 +112,7 @@ Contents
 |[SimpleMQTT](https://simplemqtt.theoi.de/)|active|A Slack app to send messages from Slack to MQTT brokers with slash commands.|
 |[MQTTX](https://github.com/emqx/MQTTX)|active|MQTTX is a cross-platform MQTT desktop client open sourced by EMQ, which supports macOS, Linux, and Windows.|
 |[MQTT-Tiles](https://github.com/flespi-software/MQTT-Tiles)|active|MQTT-based IoT dashboard visualization tool. Allows easy dashboards sharing. Works with any MQTT broker supporting the WSS protocol.|
+|[MQTT-Timer](https://github.com/Legobas/mqtt-timer)|active|Programmable Timer/Scheduler for MQTT messaging.|
 
 ### Clients
 
