@@ -26,6 +26,7 @@ Contents
 * [Google Groups: MQTT](https://groups.google.com/forum/#!forum/mqtt).
 * [IRC channel #mqtt on the freenode network](irc://irc.freenode.net/mqtt).
 * [A list of public brokers](http://moxd.io/2015/10/17/public-mqtt-brokers/).
+* [Reddit MQTT Community](https://www.reddit.com/r/MQTT).
 
 ## Blogs
 
